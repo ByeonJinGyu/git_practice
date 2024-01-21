@@ -1,0 +1,12 @@
+team: Pumas
+
+manager: Jude
+
+members:
+- Ezra
+- Carter
+- Finn
+
+# 새로운 파일이 생성되면 
+# git add .
+# git commit -m "~~~~"
